@@ -6,13 +6,13 @@ It is also inside the doc folder of this repo.
 
 The data and tables of the four applications can be downloaded from:
 
-app1: https://miamiedu-my.sharepoint.com/:u:/g/personal/lxl897_miami_edu/EXpDSlTJaalFvv3ZN12GYHEBr-jIHvnvAOZXCaQfRzwS1Q?e=p8Z9iC
+app1: https://drive.google.com/file/d/1SsR6DYm58j8aGlu0L31EgG9JfSAqGoye/view?usp=sharing
 
-app2: https://miamiedu-my.sharepoint.com/:u:/g/personal/lxl897_miami_edu/EavaeD0dzd9BhEaFSx72xYEBZO8IT09-tGiuiQLeHb9S1Q?e=IbhDMb
+app2: https://drive.google.com/file/d/1Rf5iwTthgtdk69_PRS7UVou-mCxeqQbv/view?usp=sharing
 
-app3: https://miamiedu-my.sharepoint.com/:u:/g/personal/lxl897_miami_edu/EalK4o-C8FlFqPJZB2SwWyUBgRILlgMO9EQpuAR4ZvSrqA?e=UYYJy1
+app3: https://drive.google.com/file/d/18RhTA7qdpOHmxKk4NAldJZvdAmbzOyn8/view?usp=sharing
 
-app4: https://miamiedu-my.sharepoint.com/:u:/g/personal/lxl897_miami_edu/EW3AR9__qZVErS-YkquUcEYBNJDOBpXs-0S_exmMKJCKAg?e=qhNyig
+app4: https://drive.google.com/file/d/124kiNeIJFEndEvVeL60qNZNQfSLxpUVj/view?usp=sharing
 
 I am refactoring the code to make it more user-friendly at https://github.com/liangbright/pytorch_fea
 
