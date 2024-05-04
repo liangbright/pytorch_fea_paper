@@ -1,5 +1,5 @@
 This repo has the code of our paper, titled "**PyTorch-FEA**: Autograd-enabled Finite Element Analysis Methods
-with Applications for Biomechanical Analysis of Human Aorta", which is published at computer methods and programs in biomedicine.
+with Applications for Biomechanical Analysis of Human Aorta", which is published at computer methods and programs in biomedicine (https://doi.org/10.1016/j.cmpb.2023.107616).
 
 The free preprint is available at https://www.biorxiv.org/content/10.1101/2023.03.27.533816v1
 It is also inside the doc folder of this repo.
